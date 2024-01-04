@@ -1,0 +1,72 @@
+/* =========Navbar=========== */
+body {
+  background: rgb(19, 20, 34);
+}
+
+.navbar {
+  background-color: #34495e;
+}
+
+.navbar-brand {
+  color: #e7f7fb;
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  color: #ecf0f1;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 4px;
+  width: fit-content;
+}
+
+.navbar-toggler-icon {
+  background-color: #ecf0f1;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+/* =================NewsItem==================== */
+.card {
+  background-color: rgb(39, 41, 60);
+  /* border: 1px solid gray; */
+
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.carg-img-top {
+  border-top-right-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.card-title {
+  color: #959191;
+}
+
+.card-text {
+  color: #6a6767;
+}
+
+.text-time {
+  color: #a6a3a3;
+  font-size: 0.8rem;
+}
+
+.badge {
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 0;
+}
+
+.title {
+  color: #fff;
+  margin-top: 5rem;
+}
