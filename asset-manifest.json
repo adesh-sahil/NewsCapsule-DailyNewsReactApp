@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsCapsule-DailyNewsReactApp/static/css/main.5d60f70d.css",
+    "main.js": "/NewsCapsule-DailyNewsReactApp/static/js/main.de1b1736.js",
+    "static/js/787.6643f1c0.chunk.js": "/NewsCapsule-DailyNewsReactApp/static/js/787.6643f1c0.chunk.js",
+    "static/media/loading.gif": "/NewsCapsule-DailyNewsReactApp/static/media/loading.95a035381ed86ff656b1.gif",
+    "index.html": "/NewsCapsule-DailyNewsReactApp/index.html",
+    "main.5d60f70d.css.map": "/NewsCapsule-DailyNewsReactApp/static/css/main.5d60f70d.css.map",
+    "main.de1b1736.js.map": "/NewsCapsule-DailyNewsReactApp/static/js/main.de1b1736.js.map",
+    "787.6643f1c0.chunk.js.map": "/NewsCapsule-DailyNewsReactApp/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d60f70d.css",
+    "static/js/main.de1b1736.js"
+  ]
+}
